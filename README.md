@@ -5,7 +5,7 @@ This is a PHP class that provides a simple and easy-to-use interface to interact
 To use this class in your PHP project, you can download the `GitHubApi.php` file and include it in your project. Alternatively, you can use composer to install it:
 
 ```
-  composer require username/github-api-php-class
+  composer require LennardKu/GitHubProfileBooster
 ```
 
 ### Usage
